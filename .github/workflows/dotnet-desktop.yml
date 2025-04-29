@@ -12,7 +12,7 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Solution_Name: ConsoleApp1.sln
+      Solution_Name: ConsoleApp1\ConsoleApp1.sln
       Test_Project_Path: ConsoleApp1\TestProject1\TestProject1.csproj
 
     steps:
